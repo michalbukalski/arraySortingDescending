@@ -22,7 +22,7 @@ public class Main {
             randomArray[i] = random.nextInt(1000);
         }
 
-        return randomArray;
+//        return randomArray;
     }
 
     private static int[] sortIntegers(int[] array) {
